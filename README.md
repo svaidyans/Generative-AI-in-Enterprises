@@ -12,7 +12,7 @@ When it comes to enterprises, safeguarding data privacy and security is paramoun
 Two of the solutions which have been developed include an **EmailBOT** and **InfoAssistBOT**.
 
 ## EmailBOT
-EmailBOT is an automated processing system for incoming customer emails, analyzing intent and sentiment using Azure OpenAI. Based on the knowledge stored in an enterprise's databases, EmailBOT generates personalized, automated responses.  Below is a reference architecture and demo screenshot of the solution.
+EmailBOT is an automated processing system for incoming customer emails, analyzing intent and sentiment using Azure OpenAI. Based on the knowledge stored in an enterprise's databases, EmailBOT generates personalized, automated responses.  Below is the reference architecture and demo screenshot of the solution.
 
 <p align = "center">
   <img src = "images/EmailBOT_arch.png" alt = "" width = "80%" height = "80%" />
@@ -23,7 +23,7 @@ EmailBOT is an automated processing system for incoming customer emails, analyzi
 </p>
 
 ## InfoAssistBOT
-InfoAssistBOT is an omnichannel virtual assistant enabling quick, timely and quality access to information 24x7. Below is a reference architecture and demo screenshots of the solution.
+InfoAssistBOT is an omnichannel virtual assistant enabling quick, timely and quality access to information 24x7. Below is the reference architecture and demo screenshots of the solution.
 
 <p align = "center">
   <img src = "images/InfoAssistBOT_arch.png" alt = "" width = "80%" height = "80%" />
@@ -36,4 +36,8 @@ InfoAssistBOT is an omnichannel virtual assistant enabling quick, timely and qua
 <p align = "center">
   <img src = "images/InfoAssistBOT_WebChat_GitHub.png" alt = "" width = "80%" height = "80%" />
 </p>
+
+## Conclusion
+“This new generation of AI will remove the drudgery of work and unleash creativity”
+-	Satya Nadella
 
