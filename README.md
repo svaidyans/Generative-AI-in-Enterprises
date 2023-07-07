@@ -39,5 +39,6 @@ InfoAssistBOT is an omnichannel virtual assistant enabling quick, timely and qua
 
 ## Conclusion
 “This new generation of AI will remove the drudgery of work and unleash creativity”
---	Satya Nadella
+
+-Satya Nadella
 
