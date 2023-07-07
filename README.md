@@ -20,4 +20,7 @@ EmailBOT automatically processes an incoming customer email for intent, sentimen
   <img src = "images/EmailBOT_arch.png" alt = "" width = "100%" height = "100%" />
 </p>
 
+<p align = "center">
+  <img src = "images/EmailBOT_Demo_Screenshot_GitHub.png" alt = "" width = "100%" height = "100%" />
+</p>
 
