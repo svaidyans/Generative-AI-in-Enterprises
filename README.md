@@ -30,7 +30,7 @@ InfoAssistBOT is an omnichannel virtual assistant enabling quick, timely and qua
 </p>
 
 <p align = "center">
-  <img src = "images/InfoAssistBOT_WA_GitHub.png" alt = "" width = "80%" height = "80%" />
+  <img src = "images/InfoAssistBOT_WA_GitHub.jpg" alt = "" width = "80%" height = "80%" />
 </p>
 
 <p align = "center">
