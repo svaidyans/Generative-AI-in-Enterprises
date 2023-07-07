@@ -17,10 +17,10 @@ Two of the solutions which have been developed include an **EmailBOT** and **Inf
 EmailBOT automatically processes an incoming customer email for intent, sentiment with Azure OpenAI and generates an automated response based on enterprise knowledge base information. Below is the solution’s reference architecture and a demo screenshot.
 
 <p align = "center">
-  <img src = "images/EmailBOT_arch.png" alt = "" width = "100%" height = "100%" />
+  <img src = "images/EmailBOT_arch.png" alt = "" width = "80%" height = "80%" />
 </p>
 
 <p align = "center">
-  <img src = "images/EmailBOT_Demo_Screenshot_GitHub.png" alt = "" width = "100%" height = "100%" />
+  <img src = "images/EmailBOT_Demo_Screenshot_GitHub.png" alt = "" width = "80%" height = "80%" />
 </p>
 
