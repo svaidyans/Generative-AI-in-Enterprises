@@ -9,3 +9,7 @@ Despite availability of numerous digital products, service is poor. An ideal CEP
 
 One of the key concerns for enterprises is data privacy and data security.  So, I have been developing enterprise solutions with Microsoft’s Azure OpenAI version of ChatGPT.  Further, these solutions are integrated with enterprise knowledge base portals to ensure adequate guardrails to prevent undesired responses.
 
+Two of the solutions which have been developed include an **EmailBOT** and **InfoAssistBOT**.
+
+
+
